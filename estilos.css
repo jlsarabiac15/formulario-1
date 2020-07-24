@@ -46,5 +46,10 @@ h3{
     .formulario{
         width: 75%;
     }
+ 
+ @media (max-width:800px){
+    .formulario{
+        width: 45%;
+    }
 
 }
