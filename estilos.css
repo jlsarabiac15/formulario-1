@@ -41,15 +41,15 @@ h3{
     border:none;
     border-radius: 10px;
 }
-
-@media (max-width:600px){
-    .formulario{
-        width: 75%;
-    }
  
  @media (max-width:800px){
     .formulario{
-        width: 45%;
+        width: 70%;
+    }
+     
+ @media (max-width:600px){
+    .formulario{
+        width: 75%;
     }
 
 }
